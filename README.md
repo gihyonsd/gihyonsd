@@ -1,5 +1,9 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!&fontSize=90)
+
+
 ### Hi there 👋
 🌱 I’m currently learning java
+
 
 ![gihyonsd's github stats](https://github-readme-stats.vercel.app/api?username=gihyonsd&show_icons=true)[![gihyonsd's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gihyonsd&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/gihyonsd)
 
